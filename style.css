@@ -21,24 +21,24 @@ button {
   font-family: Lato, sans-serif;
 }
 
-.eisenhower-matrix {
+.header {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
 
-.eisenhower-matrix__image {
+.header__image {
   width: 100%;
 }
 
-.eisenhower-matrix__link {
+.header__link {
   font-family: fantasy, cursive;
 }
 
 @media (max-width: 768px) {
 
-  .eisenhower-matrix { 
+  .header { 
     text-align: center;
   }
 
